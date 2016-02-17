@@ -1,0 +1,10 @@
+Testsuite: com.ttnd.linksharing.SubscriptionSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.13 sec
+------------- Standard Output ---------------
+--Output from test subscription--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test subscription--
+------------- ---------------- ---------------
+
+Testcase: test subscription took 0.121 sec

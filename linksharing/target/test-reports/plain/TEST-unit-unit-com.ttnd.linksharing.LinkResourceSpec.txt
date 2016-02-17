@@ -1,0 +1,10 @@
+Testsuite: com.ttnd.linksharing.LinkResourceSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.111 sec
+------------- Standard Output ---------------
+--Output from test link resource validations--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test link resource validations--
+------------- ---------------- ---------------
+
+Testcase: test link resource validations took 0.101 sec

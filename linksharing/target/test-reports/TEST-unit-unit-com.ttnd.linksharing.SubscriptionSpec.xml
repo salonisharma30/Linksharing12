@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="saloni-TravelMate-P257-M" name="com.ttnd.linksharing.SubscriptionSpec" skipped="0" tests="1" time="0.13" timestamp="2016-02-16T09:47:50">
+  <properties />
+  <testcase classname="com.ttnd.linksharing.SubscriptionSpec" name="test subscription" time="0.121" />
+  <system-out><![CDATA[--Output from test subscription--
+]]></system-out>
+  <system-err><![CDATA[--Output from test subscription--
+]]></system-err>
+</testsuite>

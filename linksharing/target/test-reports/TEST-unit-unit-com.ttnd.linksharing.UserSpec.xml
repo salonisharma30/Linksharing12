@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="saloni-TravelMate-P257-M" name="com.ttnd.linksharing.UserSpec" skipped="0" tests="19" time="0.56" timestamp="2016-02-16T09:47:50">
+  <properties />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 1" time="0.137" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 2" time="0.017" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 3" time="0.018" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 4" time="0.015" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 5" time="0.018" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 6" time="0.015" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 7" time="0.019" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 8" time="0.021" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 9" time="0.017" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 10" time="0.019" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 11" time="0.014" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="Executing 12" time="0.022" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="email id of user should be unique" time="0.102" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="get user full name[0]" time="0.022" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="get user full name[1]" time="0.018" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="get user full name[2]" time="0.013" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="get user full name[3]" time="0.017" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="get user full name[4]" time="0.011" />
+  <testcase classname="com.ttnd.linksharing.UserSpec" name="get user full name[5]" time="0.034" />
+  <system-out><![CDATA[--Output from Executing 1--
+--Output from Executing 2--
+--Output from Executing 3--
+--Output from Executing 4--
+--Output from Executing 5--
+--Output from Executing 6--
+--Output from Executing 7--
+--Output from Executing 8--
+--Output from Executing 9--
+--Output from Executing 10--
+--Output from Executing 11--
+--Output from Executing 12--
+--Output from email id of user should be unique--
+--Output from get user full name[0]--
+--Output from get user full name[1]--
+--Output from get user full name[2]--
+--Output from get user full name[3]--
+--Output from get user full name[4]--
+--Output from get user full name[5]--
+]]></system-out>
+  <system-err><![CDATA[--Output from Executing 1--
+--Output from Executing 2--
+--Output from Executing 3--
+--Output from Executing 4--
+--Output from Executing 5--
+--Output from Executing 6--
+--Output from Executing 7--
+--Output from Executing 8--
+--Output from Executing 9--
+--Output from Executing 10--
+--Output from Executing 11--
+--Output from Executing 12--
+--Output from email id of user should be unique--
+--Output from get user full name[0]--
+--Output from get user full name[1]--
+--Output from get user full name[2]--
+--Output from get user full name[3]--
+--Output from get user full name[4]--
+--Output from get user full name[5]--
+]]></system-err>
+</testsuite>

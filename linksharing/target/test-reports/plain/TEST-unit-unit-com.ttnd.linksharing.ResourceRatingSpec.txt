@@ -1,0 +1,10 @@
+Testsuite: com.ttnd.linksharing.ResourceRatingSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.183 sec
+------------- Standard Output ---------------
+--Output from test resource rating--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test resource rating--
+------------- ---------------- ---------------
+
+Testcase: test resource rating took 0.175 sec

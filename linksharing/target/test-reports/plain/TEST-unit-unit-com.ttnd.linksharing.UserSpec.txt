@@ -1,0 +1,64 @@
+Testsuite: com.ttnd.linksharing.UserSpec
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.56 sec
+------------- Standard Output ---------------
+--Output from Executing 1--
+--Output from Executing 2--
+--Output from Executing 3--
+--Output from Executing 4--
+--Output from Executing 5--
+--Output from Executing 6--
+--Output from Executing 7--
+--Output from Executing 8--
+--Output from Executing 9--
+--Output from Executing 10--
+--Output from Executing 11--
+--Output from Executing 12--
+--Output from email id of user should be unique--
+--Output from get user full name[0]--
+--Output from get user full name[1]--
+--Output from get user full name[2]--
+--Output from get user full name[3]--
+--Output from get user full name[4]--
+--Output from get user full name[5]--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Executing 1--
+--Output from Executing 2--
+--Output from Executing 3--
+--Output from Executing 4--
+--Output from Executing 5--
+--Output from Executing 6--
+--Output from Executing 7--
+--Output from Executing 8--
+--Output from Executing 9--
+--Output from Executing 10--
+--Output from Executing 11--
+--Output from Executing 12--
+--Output from email id of user should be unique--
+--Output from get user full name[0]--
+--Output from get user full name[1]--
+--Output from get user full name[2]--
+--Output from get user full name[3]--
+--Output from get user full name[4]--
+--Output from get user full name[5]--
+------------- ---------------- ---------------
+
+Testcase: Executing 1 took 0.137 sec
+Testcase: Executing 2 took 0.017 sec
+Testcase: Executing 3 took 0.018 sec
+Testcase: Executing 4 took 0.015 sec
+Testcase: Executing 5 took 0.018 sec
+Testcase: Executing 6 took 0.015 sec
+Testcase: Executing 7 took 0.019 sec
+Testcase: Executing 8 took 0.021 sec
+Testcase: Executing 9 took 0.018 sec
+Testcase: Executing 10 took 0.019 sec
+Testcase: Executing 11 took 0.014 sec
+Testcase: Executing 12 took 0.022 sec
+Testcase: email id of user should be unique took 0.102 sec
+Testcase: get user full name[0] took 0.022 sec
+Testcase: get user full name[1] took 0.018 sec
+Testcase: get user full name[2] took 0.013 sec
+Testcase: get user full name[3] took 0.017 sec
+Testcase: get user full name[4] took 0.011 sec
+Testcase: get user full name[5] took 0.034 sec

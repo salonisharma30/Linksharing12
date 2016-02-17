@@ -1,0 +1,10 @@
+Testsuite: com.ttnd.linksharing.ReadingItemSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.169 sec
+------------- Standard Output ---------------
+--Output from test reading item--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test reading item--
+------------- ---------------- ---------------
+
+Testcase: test reading item took 0.159 sec

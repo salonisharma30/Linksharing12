@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="saloni-TravelMate-P257-M" name="com.ttnd.linksharing.ReadingItemSpec" skipped="0" tests="1" time="0.169" timestamp="2016-02-16T09:47:49">
+  <properties />
+  <testcase classname="com.ttnd.linksharing.ReadingItemSpec" name="test reading item" time="0.159" />
+  <system-out><![CDATA[--Output from test reading item--
+]]></system-out>
+  <system-err><![CDATA[--Output from test reading item--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+Testsuite: com.ttnd.linksharing.TopicSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.315 sec
+------------- Standard Output ---------------
+--Output from test all topic validations--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test all topic validations--
+------------- ---------------- ---------------
+
+Testcase: test all topic validations took 3.258 sec

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="saloni-TravelMate-P257-M" name="com.ttnd.linksharing.LinkResourceSpec" skipped="0" tests="1" time="0.111" timestamp="2016-02-16T09:47:50">
+  <properties />
+  <testcase classname="com.ttnd.linksharing.LinkResourceSpec" name="test link resource validations" time="0.101" />
+  <system-out><![CDATA[--Output from test link resource validations--
+]]></system-out>
+  <system-err><![CDATA[--Output from test link resource validations--
+]]></system-err>
+</testsuite>
